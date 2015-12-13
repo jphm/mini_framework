@@ -4,7 +4,7 @@ class HomeController {
 
 	public function indexAction()
     {
-        exit('Mamalon');
+        return $view = new View('home', ['titulo' => 'MejorandoPHP']);
     }
 
 

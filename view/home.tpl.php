@@ -4,11 +4,8 @@
 	<title></title>
 </head>
 <body>
-<h1><?=$title?></h1>
-
-El mamalon <strong><?=$lenguaje ?></strong>
-<p><a href="contactos">Contactos</a></p>
-
+	<h1><?=$titulo ?></h1>
+	<p><a href="contactos">Contactnos</a></p>
 </body>
 </html>
 

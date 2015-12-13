@@ -9,6 +9,8 @@ require 'config.php';
 //Library
 require 'library/Request.php';
 require 'library/Inflector.php';
+require 'library/Response.php';
+require 'library/View.php';
 
 
 if(empty($_GET['url']))
