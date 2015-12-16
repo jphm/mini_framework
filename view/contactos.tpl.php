@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<h1>Contacto</h1>
 
-<p>mamalon@mmail.com</p>
+<h2><?=$titulo ?></h2>
 
-</body>
-</html>
+<p>mamalon@mail.com</p>
 
+<p><a href="home">Regresar</a></p>

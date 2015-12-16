@@ -4,7 +4,7 @@ class HomeController {
 
 	public function indexAction()
     {
-        return $view = new View('home', ['titulo' => 'MejorandoPHP']);
+        return $view = new View('home', ['titulo' => "Mejorandola Clase 2"]);
     }
 
 
